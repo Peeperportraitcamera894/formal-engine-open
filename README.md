@@ -16,7 +16,15 @@ The cybersecurity industry is plagued by tools that are impossible to install, r
 
 This repository proves the math natively. **There are zero outside Rust dependencies required to run the interactive demo**—we rely entirely on the Rust standard library (e.g., `std::net::TcpListener`) and Microsoft's official Z3 C-bindings.
 
-If you are on a Mac, you can give it a spin in about 15 seconds.
+### 🖼️ Visual Demos
+
+#### 1. The SMT Pipeline (Inversion & Armor Synthesis)
+![Full Pipeline Sequence](assets/demo_full_pipeline.png)
+*Figure 1: Autonomous inversion of a state machine to find a collision, followed by the synthesis and formal certification of a Dual-Rail Semantic Guard.*
+
+#### 2. Cryptanalysis Hub (PQC & AES Breach)
+![Encryption Hub Results](assets/demo_encryption_hub.png)
+*Figure 2: Real-time recovery of AES-256 round keys via Differential Fault Analysis and extraction of ML-KEM secret coefficients from noisy lattices.*
 
 ### Quick Start (macOS / Linux)
 
